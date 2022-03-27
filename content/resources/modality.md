@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 666ec152-3bcc-98d0-84c6-d25fcadc6ea7
 resourcetype: Document
 title: modality.pdf
 uid: 0938c9b5-ddac-a0d6-2fbf-30eb99994597

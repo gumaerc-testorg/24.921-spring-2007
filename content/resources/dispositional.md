@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 666ec152-3bcc-98d0-84c6-d25fcadc6ea7
 resourcetype: Document
 title: dispositional.pdf
 uid: 4848f90d-5f2c-888d-733a-5a8a95e08592

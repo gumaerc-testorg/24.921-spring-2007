@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 666ec152-3bcc-98d0-84c6-d25fcadc6ea7
 resourcetype: Document
 title: carlson_part2.pdf
 uid: 03b9b746-f7d9-16fd-25c2-d8096b975306

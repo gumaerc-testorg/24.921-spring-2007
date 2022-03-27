@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 666ec152-3bcc-98d0-84c6-d25fcadc6ea7
 resourcetype: Document
 title: challenges.pdf
 uid: 3d194a6d-2559-a355-80d3-2d7ac8a793a8
