@@ -5,6 +5,7 @@ file: /courses/24-921-special-topics-in-linguistics-genericity-spring-2007/0938c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: modality.pdf
 uid: 0938c9b5-ddac-a0d6-2fbf-30eb99994597
 ---
 Lecture notes with a Quick Introduction to the Semantics of Modals.
-

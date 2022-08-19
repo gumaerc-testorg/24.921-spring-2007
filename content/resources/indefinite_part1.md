@@ -5,6 +5,7 @@ file: /courses/24-921-special-topics-in-linguistics-genericity-spring-2007/1204a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: indefinite_part1.pdf
 uid: 1204a062-4fe2-833b-1474-6f2a55e04715
 ---
 Lecture notes about bare plurals as indefinites.
-

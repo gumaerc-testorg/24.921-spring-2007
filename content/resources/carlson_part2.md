@@ -5,6 +5,7 @@ file: /courses/24-921-special-topics-in-linguistics-genericity-spring-2007/03b9b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: carlson_part2.pdf
 uid: 03b9b746-f7d9-16fd-25c2-d8096b975306
 ---
 Lecture notes about reference to kinds in English.
-

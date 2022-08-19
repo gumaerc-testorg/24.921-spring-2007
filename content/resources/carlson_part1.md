@@ -7,6 +7,7 @@ file: /courses/24-921-special-topics-in-linguistics-genericity-spring-2007/5879c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: carlson_part1.pdf
 uid: 5879c02c-452d-da4a-0019-27ddc691cd95
 ---
 Lecture notes about The Puzzle, The Initial Hypothesis: Two null quantifiers, Demolishing the Initial Hypothesis, Arguments for a unified analysis, the generic use of BPs, and some references.
-
