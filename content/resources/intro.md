@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture notes about preliminaries, generic sentences to talk about general
   habits, tendencies, kinds.
-file: /courses/24-921-special-topics-in-linguistics-genericity-spring-2007/bec79329c17b08f01b0fb3c5b7859b97_intro.pdf
+file: /ol-ocw-studio-app/courses/24-921-special-topics-in-linguistics-genericity-spring-2007/bec79329c17b08f01b0fb3c5b7859b97_intro.pdf
+file_size: 67449
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

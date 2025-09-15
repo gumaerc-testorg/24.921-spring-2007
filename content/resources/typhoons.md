@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture notes about problems for Carlson related to Belladonas, Typhoons,
   and beyond.
-file: /courses/24-921-special-topics-in-linguistics-genericity-spring-2007/e4484085cde91b3fe998a3370586386d_typhoons.pdf
+file: /ol-ocw-studio-app/courses/24-921-special-topics-in-linguistics-genericity-spring-2007/e4484085cde91b3fe998a3370586386d_typhoons.pdf
+file_size: 97115
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

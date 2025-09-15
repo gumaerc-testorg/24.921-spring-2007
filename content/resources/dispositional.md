@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture notes about habituals and dispositionals.
-file: /courses/24-921-special-topics-in-linguistics-genericity-spring-2007/4848f90d5f2c888d733a5a8a95e08592_dispositional.pdf
+file: /ol-ocw-studio-app/courses/24-921-special-topics-in-linguistics-genericity-spring-2007/4848f90d5f2c888d733a5a8a95e08592_dispositional.pdf
+file_size: 172041
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

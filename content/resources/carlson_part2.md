@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture notes about reference to kinds in English.
-file: /courses/24-921-special-topics-in-linguistics-genericity-spring-2007/03b9b746f7d916fd25c2d8096b975306_carlson_part2.pdf
+file: /ol-ocw-studio-app/courses/24-921-special-topics-in-linguistics-genericity-spring-2007/03b9b746f7d916fd25c2d8096b975306_carlson_part2.pdf
+file_size: 161448
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

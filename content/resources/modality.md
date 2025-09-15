@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture notes with a Quick Introduction to the Semantics of Modals.
-file: /courses/24-921-special-topics-in-linguistics-genericity-spring-2007/0938c9b5ddaca0d62fbf30eb99994597_modality.pdf
+file: /ol-ocw-studio-app/courses/24-921-special-topics-in-linguistics-genericity-spring-2007/0938c9b5ddaca0d62fbf30eb99994597_modality.pdf
+file_size: 119538
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

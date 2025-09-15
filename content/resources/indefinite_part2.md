@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture notes about bare plurals as indefinites.
-file: /courses/24-921-special-topics-in-linguistics-genericity-spring-2007/e150b1db1435e2615ba01f9192ff6696_indefinite_part2.pdf
+file: /ol-ocw-studio-app/courses/24-921-special-topics-in-linguistics-genericity-spring-2007/e150b1db1435e2615ba01f9192ff6696_indefinite_part2.pdf
+file_size: 146799
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

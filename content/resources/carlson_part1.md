@@ -3,7 +3,8 @@ content_type: resource
 description: 'Lecture notes about The Puzzle, The Initial Hypothesis: Two null quantifiers,
   Demolishing the Initial Hypothesis, Arguments for a unified analysis, the generic
   use of BPs, and some references.'
-file: /courses/24-921-special-topics-in-linguistics-genericity-spring-2007/5879c02c452dda4a001927ddc691cd95_carlson_part1.pdf
+file: /ol-ocw-studio-app/courses/24-921-special-topics-in-linguistics-genericity-spring-2007/5879c02c452dda4a001927ddc691cd95_carlson_part1.pdf
+file_size: 161705
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
