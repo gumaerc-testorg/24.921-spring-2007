@@ -15,14 +15,14 @@ Some Overview Readings
 
 Carlson, Gregory N., and Francis Jeffry Pelletier, eds. _The Generic Book_. Chicago, IL: Chicago University Press, 1995. ISBN: 9780226092928.
 
-Katz, Graham, and Roberto Zamparelli. [_Genericity in Natural Language_](https://esslli2016.unibz.it/wp-content/uploads/2015/10/notes-day2.pdf). Class notes for ESSLLI, Heriot-Watt University, Edinburgh 2005.
+Katz, Graham, and Roberto Zamparelli. {{% resource_link "2176e64c-f591-42ff-b25b-2b218fdd2443" "_Genericity in Natural Language_" %}}. Class notes for ESSLLI, Heriot-Watt University, Edinburgh 2005.
 
 Carlson, Gregory N. "No Lack of Determination." _Glot International_  4, no. 3 (1999): State-of-the-Article.
 
 Carlson 1977: Bare Plurals as Names for Kinds
 ---------------------------------------------
 
-Carlson, Gregory N. "[Reference to Kinds in English](http://semanticsarchive.net/Archive/jk3NzRlY/)." Doctoral dissertation, University of Massachusetts, Amherst, 1977.
+Carlson, Gregory N. "{{% resource_link "c8c8b702-2e7b-4ddf-8d89-e127913bb29e" "Reference to Kinds in English" %}}." Doctoral dissertation, University of Massachusetts, Amherst, 1977.
 
 Carlson, Gregory N. _Reference to Kinds in English_ . New York, NY: Garland Publishing, 1980. ISBN: 9780824045517.
 
@@ -49,18 +49,18 @@ Kratzer, Angelika. "Modality." Chapter 23 in _Handbuch Semantik/Handbook Semanti
 
 ### Heim 1992
 
-Heim, Irene. "[The Semantics of Definite and Indefinite Noun Phrases](http://semanticsarchive.net/Archive/Tk0ZmYyY/)." Doctoral dissertation, University of Massachusetts, Amherst, 1982.
+Heim, Irene. "{{% resource_link "1f6ec5b7-aabb-40a9-8eac-e25d359d6046" "The Semantics of Definite and Indefinite Noun Phrases" %}}." Doctoral dissertation, University of Massachusetts, Amherst, 1982.
 
 Heim, Irene. _The Semantics of Definite and Indefinite Noun Phrases_ . New York, NY: Garland Publishing, 1988. ISBN: 9780824051884.
 
 Habituals and Dispositionals
 ----------------------------
 
-Ferreira, Marcelo. "[Bare Habituals and Plural Definite Descriptions](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/721) ." In _Proceedings of SuB9_. Edited by Maier, Emar, Corien Bary, and Janneke Huitink, 2005. ISBN: 9090193561.
+Ferreira, Marcelo. "{{% resource_link "fd8becf7-038d-487b-8a5b-2d5d5774f6d8" "Bare Habituals and Plural Definite Descriptions" %}} ." In _Proceedings of SuB9_. Edited by Maier, Emar, Corien Bary, and Janneke Huitink, 2005. ISBN: 9090193561.
 
 Rimell, Laura. "Habitual Sentences and Generic Quantification." To appear in WCCFL 23 Proceedings (pre-publication version), 2004.
 
-Menéndez-Benito, Paula. "[The Grammar of Choice](http://semanticsarchive.net/Archive/GQ1OGQ3O/)." Doctoral dissertation, University of Massachusetts, Amherst, 2005.
+Menéndez-Benito, Paula. "{{% resource_link "4bef9375-4b33-48ce-a0c6-9c2a9687943b" "The Grammar of Choice" %}}." Doctoral dissertation, University of Massachusetts, Amherst, 2005.
 
 Additional Readings
 -------------------
